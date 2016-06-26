@@ -21,9 +21,4 @@
 
 「盐酸」是一个*回合制基础*，*卡牌收集性质*的*战棋游戏*。岂不美哉？
 
-<<<<<<< HEAD
 游戏规则请参见[这里](https://github.com/NyanNyanDevelopers/HCl/blob/master/GameRule.md)
-=======
-游戏规则请参见[这里](https://github.com/NyanNyanDevelopers/HCl/blob/master/README.md)
->>>>>>> 35120fc639fe178aa9228a29d92fd86841004ec1
-
